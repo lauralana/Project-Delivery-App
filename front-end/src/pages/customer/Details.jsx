@@ -1,5 +1,5 @@
-import moment from 'moment/moment';
-import 'moment/locale/pt-br';
+// import moment from 'moment/moment';
+// import 'moment/locale/pt-br';
 import PropTypes from 'prop-types';
 import { useEffect, useState } from 'react';
 import { getOrderByID, updateStatus } from '../../Api/api';
@@ -60,7 +60,8 @@ function Details(props) {
           data-testid="customer_order_details__element-order-details-label-order-date"
         >
           {
-            moment(infos.data.saleDate).format('L')
+            // moment(infos.data.saleDate).format('L')
+            infos.data.saleDate
           }
         </h4>
         <h4
