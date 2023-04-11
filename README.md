@@ -1,13 +1,19 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Project Delivery App
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+- ## Sobre:
+>Esse projeto é uma aplicação full stack que consiste em criar e integrar o Back-End e o Front-End de uma plataforma de delivery. 
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+>Foram desenvolvidas funcionalidades para três tipos de usuários: clientes, funcionários e administradores, seguindo uma hierarquia de atribuições. Os usuários tem acesso através do login e o aplicativo válida o tipo de usuário a que a conta pertence usando o Token JWT.
+
+>Através dessa aplicação é possível se registar e logar no aplicativo, realizar uma compra, ver detalhes de um produto ou de uma compra, acompanhar e alterar o status de um pedido de acordo com as especificações do usuário, além de fazer o cadastro das informações no banco de dados.
+
+- ## Tecnologias:
+>React <br>
+>Axios <br>
+>JavaScript <br>
+>Node.js <br>
+>Sequelize <br>
+>MySQL <br>
+>Express.js <br>
+>JWT <br>
+
