@@ -1,6 +1,6 @@
 # Project Delivery App
 
-- ## Sobre:
+- ## Sobre :
 Esse projeto é uma aplicação full stack que consiste em criar e integrar o Back-End e o Front-End de uma plataforma de delivery. 
 
 >Foram desenvolvidas funcionalidades para três tipos de usuários: clientes, vendedores e administradores, seguindo uma hierarquia de atribuições. Os usuários tem acesso através do login e o aplicativo valida o tipo de usuário a que a conta pertence usando o Token JWT.
@@ -30,7 +30,7 @@ Esse projeto é uma aplicação full stack que consiste em criar e integrar o Ba
   email: adm@deliveryapp.com
   password: --adm2@21!!--
 
-- ## Tecnologias:
+- ## Tecnologias :
 >React <br>
 >Axios <br>
 >JavaScript <br>
