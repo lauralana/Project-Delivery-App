@@ -49,7 +49,8 @@ Esse projeto é uma aplicação full stack que consiste em criar e integrar o Ba
   > Configure o arquivo .env na pasta do backend com as variáveis de ambiente respectivas. (Há um arquivo `.env.example` que possui exemplos de como configurar o arquivo.)
   - ⚠️ É necessário ter o MySQL instalado em sua máquina para que o backend do projeto funcione corretamente
 
-  > Instale as dependências com `npm install` e, após isso, para a instalação do front e do backend, utilize o comando `npm run dev:prestart`
+  > Instale as dependências com `npm install`
+  >  após isso, para a instalação do front e do backend, utilize o comando `npm run dev:prestart`
 
   > Por fim, para inicializar o projeto, rode o comando `npm start`.
 
